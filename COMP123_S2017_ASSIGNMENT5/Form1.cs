@@ -16,5 +16,20 @@ namespace COMP123_S2017_ASSIGNMENT5
         {
             InitializeComponent();
         }
+
+        private void Gender_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void height_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
